@@ -1,6 +1,3 @@
-def main():
-    print("Hello from poke-dex!")
+from sqlalchemy.orm import declarative_base
 
-
-if __name__ == "__main__":
-    main()
+print("ok")
