@@ -2,8 +2,8 @@
 some of my fastapi projects
 
 ## MangaDex cli
-a cli application to search and get info about mangas
-
+A cli application to search and get info about mangas
+Built using Tenrai API, completely compatible with Jikan API
 ### How to use
 ```bash
     python manga_cli.py search "One piece"
