@@ -9,5 +9,5 @@ Built using Tenrai API, completely compatible with Jikan API
     python manga_cli.py search "One piece"
 ```
 ```bash
-    python manga_cli.py search "13" # mal id of onepiece, find it using search command
+    python manga_cli.py info "13" # mal id of onepiece, find it using search command
 ```
