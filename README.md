@@ -16,7 +16,7 @@ Info about the anime using MAL id
 ```
 
 Compare multiple animes using MAL id
--# sorts the anime passed with highest score and creates a comparison graph (11 12 13 are the mal ids of big 3 animes)
+> *Sorts the anime passed with the highest score and creates a comparison graph.*
 ```bash
     python manga_cli.py compare 11 12 13
 ```
