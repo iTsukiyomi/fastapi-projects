@@ -2,7 +2,8 @@
 some of my fastapi projects
 
 ## MangaDex cli
-A cli application to search and get info about mangas.\n
+A cli application to search and get info about mangas.
+
 Built using Tenrai API, completely compatible with Jikan API.
 ### How to use
 Search an anime (to get the MAL (MyAnimeList) id)
