@@ -46,11 +46,6 @@ python manga_cli.py compare 11 12 13
 - TenRai API 
 - Compatible with Jikan API
 
-## Disclaimer
-
-I am not responsible for arguments caused by the comparison results.
-Especially if your fav manga loses.
-
 ## Installation
 
 ```bash
