@@ -46,14 +46,6 @@ python manga_cli.py compare 11 12 13
 - TenRai API 
 - Compatible with Jikan API
 
-## Installation
-
-```bash
-    git clone https://github.com/iTsukiyomi/fastapi-projects
-    cd <project-directory/mangadex>
-
-    uv sync
-```
 
 #### Requirements
 
